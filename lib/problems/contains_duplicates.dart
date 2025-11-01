@@ -1,4 +1,4 @@
-// Ejercicio: 217. Contains duplicates
+// 217. Contains duplicates
 
 bool containsDuplicates(List<int> nums) {
   bool answer = false;
