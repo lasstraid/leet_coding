@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:leet_coding/leet_coding.dart';
+import 'package:leet_coding/problems/valid_anagram.dart';
 
 void main() {
   group('Valid anagram', () {
